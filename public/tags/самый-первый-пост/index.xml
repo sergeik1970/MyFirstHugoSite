@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Самый Первый Пост on Мой первый блог на hugo</title>
+    <link>http://localhost:1313/tags/%D1%81%D0%B0%D0%BC%D1%8B%D0%B9-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</link>
+    <description>Recent content in Самый Первый Пост on Мой первый блог на hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <copyright>© 2024 Sergey Kudashev</copyright>
+    <lastBuildDate>Thu, 22 Feb 2024 16:38:54 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D1%81%D0%B0%D0%BC%D1%8B%D0%B9-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 22 Feb 2024 16:38:54 +0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Заголовок (h1) Подзаголовок (h2) Это обычный текст
+Это жирный текст
+Это курсив
+Hugo - гиперссылка
+Переход на новую строку
+два пробела
+Этот текст очень важный
+Это цитата
+Это первая цитата
+Это вторая цитата
+Это цитата
+Это цитата в цитате
+Это ещё одна цитата это первая строка списка это вторая строка списка
+Это просто текст First item Second item Third item Indented item Indented item Forth item First item
+Indented item 1968.</description>
+    </item>
+  </channel>
+</rss>

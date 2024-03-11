@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Текст on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/%D1%82%D0%B5%D0%BA%D1%81%D1%82/</link>
+    <description>Recent content in Текст on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 22 Feb 2024 16:38:54 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%D1%82%D0%B5%D0%BA%D1%81%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 22 Feb 2024 16:38:54 +0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Заголовок (h1) Подзаголовок (h2) Это обычный текст
+Это жирный текст
+Это курсив
+Hugo - гиперссылка
+Переход на новую строку
+два пробела
+Этот текст очень важный
+Это цитата
+Это первая цитата
+Это вторая цитата
+Это цитата
+Это цитата в цитате
+Это ещё одна цитата это первая строка списка это вторая строка списка
+Это просто текст First item Second item Third item Indented item Indented item Forth item First item
+Indented item 1968.</description>
+    </item>
+  </channel>
+</rss>
